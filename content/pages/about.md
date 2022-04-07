@@ -1,21 +1,20 @@
 ---
-title: 'About me'
+title: 'Sobre mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mí"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> De nacionalidad mexicana, 23 años, siempre me ha apasionado saber más sobre las cosas que me inspiran, sease arte, como la pintura, la escritura, la actuación, como la tecnología, en este caso, la programación, el desarrollo web, la inteligencia artificial entre otros temas.
+> Me gusta mucho estudiar en tiempos libres la medicina forense o la inmunología, son temas que siempre me han gustado para estudiar solamente por gusto. 
+> Soy escritora. Autora de novelas románticas con toques de angustia. Cuentos de fantasía y algunos ensayos reflexivos sobre nosotros como seres humanos.
+> Soy acuarelista y letrista. Disfruto de pintar cuando tengo tiempo y hacer pequeños trabajos como pizarrones o rotulaciones de invitaciones.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Ingenieria informática** constantemente saliendo de su zona de comfort para aprender y seguir creciendo
+en este mundo binario y maravilloso. Amante de los gatos, gran seguidora de Taylor Swift y de 5 Seconds
+Of Summer. 
 
