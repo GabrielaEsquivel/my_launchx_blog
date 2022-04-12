@@ -1,6 +1,6 @@
 ---
 title: "Resumen de la Semana 1 de LaunchX-Backend-NodeJS"
-date: 2022-04-06
+date: 2022-04-11
 description: 'Acómpañame a recapilutar la primera semana de esta nueva misión.'
 ---
 Las herramientas.
@@ -32,3 +32,8 @@ y capaz.
 Porque yo no. 
 ¡Anímate a conocer tus herramientas de trabajo!
 
+
+JavaScript.
+====
+
+Soon.
