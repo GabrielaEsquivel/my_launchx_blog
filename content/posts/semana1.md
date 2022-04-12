@@ -3,7 +3,8 @@ title: "Resumen de la Semana 1 de LaunchX-Backend-NodeJS"
 date: 2022-04-06
 description: 'Acómpañame a recapilutar la primera semana de esta nueva misión.'
 ---
-## Las herramientas.
+Las herramientas.
+====
 
 Siempre comprendí la razón por la cual no debías utilizar algún framework sin tener las bases de programación bien sentadas, pero, 
 nunca me imaginé que podríamos traspolar aquello en el contexto de nuestras herramientas de trabajo.
