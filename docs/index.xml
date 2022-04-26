@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriela Esquivel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/GabrielaEsquivel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/GabrielaEsquivel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Tecnología Git</title>
+      <link>https://github.com/GabrielaEsquivel/posts/git/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/GabrielaEsquivel/posts/git/</guid>
+      <description>Git, seguramente suena en lo profundo de tu mente, pero no lo suficiente. Seguramente lo has usado, pero no lo topas, ni mucho menos te has preguntando desde cuándo cohabita con nosotros. Me gustaría compartir contigo algunas de mis notas obtenidas al libro de ProGit en Español (que está más que recomendado para todos vosotros).
+Sin más, comencemos a enlistar.
+ Git nació en el 2005. Algunos de sus objetivos como tecnología son: velocidad, diseño sencillo, gran soporte para desarrollo no lineal (branching) y capacidad de manerjar grandes proyectos.</description>
+    </item>
+    
     <item>
       <title>Resumen de la Semana 1 de LaunchX-Backend-NodeJS</title>
       <link>https://github.com/GabrielaEsquivel/posts/semana1/</link>
